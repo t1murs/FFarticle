@@ -1,0 +1,10 @@
+# Versions observed in the audited execution environment.
+# Core engine / outputs / aggregation:
+numpy==2.3.5
+pyarrow==26.0.1
+# Frozen design generation, analysis, and scientific figures:
+scipy==1.17.0
+pandas==2.2.3
+matplotlib==3.10.8
+# Optional reproducibility of storage-engineering benchmarks:
+zstandard==0.25.0
